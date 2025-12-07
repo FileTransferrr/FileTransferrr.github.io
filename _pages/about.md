@@ -13,6 +13,6 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 I have been working with the [PRIME Lab](https://tangresearch.top) from [School of Integrated Circuit](https://ic.pku.edu.cn/), Peking University, under the supervision of Prof.Xiyuan Tang since September 2024. In September 2025, I joined Rice University in Houston, Texas as a visiting student. There I worked with the [SIMS Lab](https://vlsi.rice.edu) under the supervision of Prof. Kaiyuan Yang, and I conducted low-power analog 
 front-end design.
 
-You can find my CV [here](../assets/resume.pdf)
+You can find my CV [here](../assets/CV.pdf)
 
 [Email](mailto:2200012860@stu.pku.edu.cn) / [GitHub](https://github.com//FileTransferrr)
